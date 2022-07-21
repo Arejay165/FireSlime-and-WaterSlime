@@ -1,0 +1,2244 @@
+fileFormatVersion: 2
+guid: 69df004dde8bb5b4c92fc146b792ae05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8375619264480416996
+    second: oubliette_tileset_transparent_0
+  - first:
+      213: -3947267858230839675
+    second: oubliette_tileset_transparent_1
+  - first:
+      213: 2920381291094582510
+    second: oubliette_tileset_transparent_2
+  - first:
+      213: 7756370206698791624
+    second: oubliette_tileset_transparent_3
+  - first:
+      213: -3516086028117362557
+    second: oubliette_tileset_transparent_4
+  - first:
+      213: -3417313326298503927
+    second: oubliette_tileset_transparent_5
+  - first:
+      213: 3874801935424741820
+    second: oubliette_tileset_transparent_6
+  - first:
+      213: -3778995833712789689
+    second: oubliette_tileset_transparent_7
+  - first:
+      213: -2435317432939266495
+    second: oubliette_tileset_transparent_8
+  - first:
+      213: 1432884012185689380
+    second: oubliette_tileset_transparent_9
+  - first:
+      213: -2306861716441101458
+    second: oubliette_tileset_transparent_10
+  - first:
+      213: 3344739790275632965
+    second: oubliette_tileset_transparent_11
+  - first:
+      213: -4358943761219916797
+    second: oubliette_tileset_transparent_12
+  - first:
+      213: 3849407241127625450
+    second: oubliette_tileset_transparent_13
+  - first:
+      213: 5536963649300342272
+    second: oubliette_tileset_transparent_14
+  - first:
+      213: 1205883285632678924
+    second: oubliette_tileset_transparent_15
+  - first:
+      213: -4521398175782069613
+    second: oubliette_tileset_transparent_16
+  - first:
+      213: -2801090445705672213
+    second: oubliette_tileset_transparent_17
+  - first:
+      213: -7792571277171740931
+    second: oubliette_tileset_transparent_18
+  - first:
+      213: -3494474309996541501
+    second: oubliette_tileset_transparent_19
+  - first:
+      213: 8224628096869047755
+    second: oubliette_tileset_transparent_20
+  - first:
+      213: -2963407713959353681
+    second: oubliette_tileset_transparent_21
+  - first:
+      213: 435881734433290546
+    second: oubliette_tileset_transparent_22
+  - first:
+      213: 4302441695575233842
+    second: oubliette_tileset_transparent_23
+  - first:
+      213: -8927534161421564654
+    second: oubliette_tileset_transparent_24
+  - first:
+      213: -5213823077509803185
+    second: oubliette_tileset_transparent_25
+  - first:
+      213: 8547205953680582631
+    second: oubliette_tileset_transparent_26
+  - first:
+      213: -4441308703785614676
+    second: oubliette_tileset_transparent_27
+  - first:
+      213: -2379777574662914178
+    second: oubliette_tileset_transparent_28
+  - first:
+      213: 5067666220117581682
+    second: oubliette_tileset_transparent_29
+  - first:
+      213: -1912014635054851752
+    second: oubliette_tileset_transparent_30
+  - first:
+      213: -3631102213190732086
+    second: oubliette_tileset_transparent_31
+  - first:
+      213: -8076582766897330524
+    second: oubliette_tileset_transparent_32
+  - first:
+      213: 8394001863728210378
+    second: oubliette_tileset_transparent_33
+  - first:
+      213: -617475345696731859
+    second: oubliette_tileset_transparent_34
+  - first:
+      213: -7379244298524136766
+    second: oubliette_tileset_transparent_35
+  - first:
+      213: 1358819258355024006
+    second: oubliette_tileset_transparent_36
+  - first:
+      213: 7041843783850491008
+    second: oubliette_tileset_transparent_37
+  - first:
+      213: 2912873570710126685
+    second: oubliette_tileset_transparent_38
+  - first:
+      213: -5629730957622660238
+    second: oubliette_tileset_transparent_39
+  - first:
+      213: 1631430344582009976
+    second: oubliette_tileset_transparent_40
+  - first:
+      213: 4494824263071914920
+    second: oubliette_tileset_transparent_41
+  - first:
+      213: -7446547039901146431
+    second: oubliette_tileset_transparent_42
+  - first:
+      213: -1851745179740346364
+    second: oubliette_tileset_transparent_43
+  - first:
+      213: -3982529644709565551
+    second: oubliette_tileset_transparent_44
+  - first:
+      213: -2613968279713148448
+    second: oubliette_tileset_transparent_45
+  - first:
+      213: 6136793450182497633
+    second: oubliette_tileset_transparent_46
+  - first:
+      213: 1644589758214892311
+    second: oubliette_tileset_transparent_47
+  - first:
+      213: -7456236608750645089
+    second: oubliette_tileset_transparent_48
+  - first:
+      213: -3756681596960468217
+    second: oubliette_tileset_transparent_49
+  - first:
+      213: 5052779852908195498
+    second: oubliette_tileset_transparent_50
+  - first:
+      213: -7416758640099470891
+    second: oubliette_tileset_transparent_51
+  - first:
+      213: -2261365613018476311
+    second: oubliette_tileset_transparent_52
+  - first:
+      213: -6563956165301641091
+    second: oubliette_tileset_transparent_53
+  - first:
+      213: -4926564260254211694
+    second: oubliette_tileset_transparent_54
+  - first:
+      213: 9205411000483879360
+    second: oubliette_tileset_transparent_55
+  - first:
+      213: -4178924672992774477
+    second: oubliette_tileset_transparent_56
+  - first:
+      213: 524541183943128397
+    second: oubliette_tileset_transparent_57
+  - first:
+      213: -5372023494839974093
+    second: oubliette_tileset_transparent_58
+  - first:
+      213: -4433471811350439852
+    second: oubliette_tileset_transparent_59
+  - first:
+      213: 2145420288276070326
+    second: oubliette_tileset_transparent_60
+  - first:
+      213: -5872578505713897835
+    second: oubliette_tileset_transparent_61
+  - first:
+      213: 1088295908547596383
+    second: oubliette_tileset_transparent_62
+  - first:
+      213: -2437232260347969281
+    second: oubliette_tileset_transparent_63
+  - first:
+      213: 1765414791041335461
+    second: oubliette_tileset_transparent_64
+  - first:
+      213: 2218687530597544234
+    second: oubliette_tileset_transparent_65
+  - first:
+      213: 667924666417425905
+    second: oubliette_tileset_transparent_66
+  - first:
+      213: -3565776980624687593
+    second: oubliette_tileset_transparent_67
+  - first:
+      213: -6686948810615280653
+    second: oubliette_tileset_transparent_68
+  - first:
+      213: 6797777410809958511
+    second: oubliette_tileset_transparent_69
+  - first:
+      213: 5293071035688521491
+    second: oubliette_tileset_transparent_70
+  - first:
+      213: -8275725248504629669
+    second: oubliette_tileset_transparent_71
+  - first:
+      213: -1670135792645384506
+    second: oubliette_tileset_transparent_72
+  - first:
+      213: 2184491249549316136
+    second: oubliette_tileset_transparent_73
+  - first:
+      213: -4692923783311638822
+    second: oubliette_tileset_transparent_74
+  - first:
+      213: -1488941915592664774
+    second: oubliette_tileset_transparent_75
+  - first:
+      213: -6927004319727640097
+    second: oubliette_tileset_transparent_76
+  - first:
+      213: 5776178444208451716
+    second: oubliette_tileset_transparent_77
+  - first:
+      213: -5572668357647225705
+    second: oubliette_tileset_transparent_78
+  - first:
+      213: 7329634617948688267
+    second: oubliette_tileset_transparent_79
+  - first:
+      213: 1685040366406333057
+    second: oubliette_tileset_transparent_80
+  - first:
+      213: 3687175555726543107
+    second: oubliette_tileset_transparent_81
+  - first:
+      213: 858723349852155678
+    second: oubliette_tileset_transparent_82
+  - first:
+      213: 5886623784768318559
+    second: oubliette_tileset_transparent_83
+  - first:
+      213: 4442159983632095939
+    second: oubliette_tileset_transparent_84
+  - first:
+      213: 7901702846672018108
+    second: oubliette_tileset_transparent_85
+  - first:
+      213: -3565820936182920150
+    second: oubliette_tileset_transparent_86
+  - first:
+      213: 1179845281007876687
+    second: oubliette_tileset_transparent_87
+  - first:
+      213: -6290710166834703937
+    second: oubliette_tileset_transparent_88
+  - first:
+      213: -410896712411985326
+    second: oubliette_tileset_transparent_89
+  - first:
+      213: 6692971426018322794
+    second: oubliette_tileset_transparent_90
+  - first:
+      213: 8261328154104623999
+    second: oubliette_tileset_transparent_91
+  - first:
+      213: 1556187476478667703
+    second: oubliette_tileset_transparent_92
+  - first:
+      213: 2502761144144561539
+    second: oubliette_tileset_transparent_93
+  - first:
+      213: -5649271255273504562
+    second: oubliette_tileset_transparent_94
+  - first:
+      213: -3275621732520500024
+    second: oubliette_tileset_transparent_95
+  - first:
+      213: 17526767950565772
+    second: oubliette_tileset_transparent_96
+  - first:
+      213: -3857783408313982505
+    second: oubliette_tileset_transparent_97
+  - first:
+      213: -1397737316034831363
+    second: oubliette_tileset_transparent_98
+  - first:
+      213: -1312975953147705316
+    second: oubliette_tileset_transparent_99
+  - first:
+      213: -3608239328008881764
+    second: oubliette_tileset_transparent_100
+  - first:
+      213: -7823082343436833997
+    second: oubliette_tileset_transparent_101
+  - first:
+      213: 2667967852290481105
+    second: oubliette_tileset_transparent_102
+  - first:
+      213: 4949316130415439817
+    second: oubliette_tileset_transparent_103
+  - first:
+      213: -8259198289309754873
+    second: oubliette_tileset_transparent_104
+  - first:
+      213: 2794214268754929792
+    second: oubliette_tileset_transparent_105
+  - first:
+      213: -4947864696798754737
+    second: oubliette_tileset_transparent_106
+  - first:
+      213: 3586233323234198571
+    second: oubliette_tileset_transparent_107
+  - first:
+      213: -4260115492765950578
+    second: oubliette_tileset_transparent_108
+  - first:
+      213: -7739055970181954430
+    second: oubliette_tileset_transparent_109
+  - first:
+      213: -5455121472960660256
+    second: oubliette_tileset_transparent_110
+  - first:
+      213: 7564178309091820351
+    second: oubliette_tileset_transparent_111
+  - first:
+      213: -430840484231491304
+    second: oubliette_tileset_transparent_112
+  - first:
+      213: 4979084372769124335
+    second: oubliette_tileset_transparent_113
+  - first:
+      213: -5586785493122412015
+    second: oubliette_tileset_transparent_114
+  - first:
+      213: -7672474373932794689
+    second: oubliette_tileset_transparent_115
+  - first:
+      213: -7441562025441168171
+    second: oubliette_tileset_transparent_116
+  - first:
+      213: 203605403320811573
+    second: oubliette_tileset_transparent_117
+  - first:
+      213: 3851963686328662571
+    second: oubliette_tileset_transparent_118
+  - first:
+      213: -7435361317817699122
+    second: oubliette_tileset_transparent_119
+  - first:
+      213: 5360990289180838509
+    second: oubliette_tileset_transparent_120
+  - first:
+      213: 3864982894404840929
+    second: oubliette_tileset_transparent_121
+  - first:
+      213: 6110462606831522913
+    second: oubliette_tileset_transparent_122
+  - first:
+      213: -133115296837599254
+    second: oubliette_tileset_transparent_123
+  - first:
+      213: -8315425497480108154
+    second: oubliette_tileset_transparent_124
+  - first:
+      213: -1315949173597086168
+    second: oubliette_tileset_transparent_125
+  - first:
+      213: 5445782901897537704
+    second: oubliette_tileset_transparent_126
+  - first:
+      213: -7898441242841475578
+    second: oubliette_tileset_transparent_127
+  - first:
+      213: 8102153387628387154
+    second: oubliette_tileset_transparent_128
+  - first:
+      213: 550092104193185476
+    second: oubliette_tileset_transparent_129
+  - first:
+      213: -1883399622700276489
+    second: oubliette_tileset_transparent_130
+  - first:
+      213: -7250558294111433278
+    second: oubliette_tileset_transparent_131
+  - first:
+      213: 4740364171450421050
+    second: oubliette_tileset_transparent_132
+  - first:
+      213: -1761839084739929260
+    second: oubliette_tileset_transparent_133
+  - first:
+      213: 4736711883903178676
+    second: oubliette_tileset_transparent_134
+  - first:
+      213: -2058110702571072743
+    second: oubliette_tileset_transparent_135
+  - first:
+      213: -5598561886142869638
+    second: oubliette_tileset_transparent_136
+  - first:
+      213: 5963099710761466926
+    second: oubliette_tileset_transparent_137
+  - first:
+      213: -263089541599140684
+    second: oubliette_tileset_transparent_138
+  - first:
+      213: 2330782186868022037
+    second: oubliette_tileset_transparent_139
+  - first:
+      213: -5210885574097338299
+    second: oubliette_tileset_transparent_140
+  - first:
+      213: -102243353703549051
+    second: oubliette_tileset_transparent_141
+  - first:
+      213: 3675023746224204692
+    second: oubliette_tileset_transparent_142
+  - first:
+      213: 2351982114848057464
+    second: oubliette_tileset_transparent_143
+  - first:
+      213: 3406333950372804559
+    second: oubliette_tileset_transparent_144
+  - first:
+      213: -1909817396681387505
+    second: oubliette_tileset_transparent_145
+  - first:
+      213: -3903164360827938706
+    second: oubliette_tileset_transparent_146
+  - first:
+      213: -6821634806998017137
+    second: oubliette_tileset_transparent_147
+  - first:
+      213: 2377159855723926241
+    second: oubliette_tileset_transparent_148
+  - first:
+      213: 5010090630680990668
+    second: oubliette_tileset_transparent_149
+  - first:
+      213: -6095301087249871124
+    second: oubliette_tileset_transparent_150
+  - first:
+      213: 1197303076451344804
+    second: oubliette_tileset_transparent_151
+  - first:
+      213: -2532259763884129764
+    second: oubliette_tileset_transparent_152
+  - first:
+      213: 3225451578558393937
+    second: oubliette_tileset_transparent_153
+  - first:
+      213: 681388586738832532
+    second: oubliette_tileset_transparent_154
+  - first:
+      213: 7865509085469598043
+    second: oubliette_tileset_transparent_155
+  - first:
+      213: 1524054846626159374
+    second: oubliette_tileset_transparent_156
+  - first:
+      213: -915428561901150795
+    second: oubliette_tileset_transparent_157
+  - first:
+      213: 664512991345076613
+    second: oubliette_tileset_transparent_158
+  - first:
+      213: -1865937275105708299
+    second: oubliette_tileset_transparent_159
+  - first:
+      213: -8274347918103285708
+    second: oubliette_tileset_transparent_160
+  - first:
+      213: 5980185715439420355
+    second: oubliette_tileset_transparent_161
+  - first:
+      213: 3346460002485214984
+    second: oubliette_tileset_transparent_162
+  - first:
+      213: 3325630594871298408
+    second: oubliette_tileset_transparent_163
+  - first:
+      213: -1057568339189882357
+    second: oubliette_tileset_transparent_164
+  - first:
+      213: 5956514956518519826
+    second: oubliette_tileset_transparent_165
+  - first:
+      213: -978028015156395154
+    second: oubliette_tileset_transparent_166
+  - first:
+      213: 6329447527123293367
+    second: oubliette_tileset_transparent_167
+  - first:
+      213: -3602968249349337396
+    second: oubliette_tileset_transparent_168
+  - first:
+      213: -2493219649474573200
+    second: oubliette_tileset_transparent_169
+  - first:
+      213: 9176135148693333974
+    second: oubliette_tileset_transparent_170
+  - first:
+      213: 824528946716926743
+    second: oubliette_tileset_transparent_171
+  - first:
+      213: 7824030175206701103
+    second: oubliette_tileset_transparent_172
+  - first:
+      213: -8276168031719169177
+    second: oubliette_tileset_transparent_173
+  - first:
+      213: 4236440821834126950
+    second: oubliette_tileset_transparent_174
+  - first:
+      213: -4969312354592821859
+    second: oubliette_tileset_transparent_175
+  - first:
+      213: -2865232191974443181
+    second: oubliette_tileset_transparent_176
+  - first:
+      213: 6944570205910377349
+    second: oubliette_tileset_transparent_177
+  - first:
+      213: 8155678830218228249
+    second: oubliette_tileset_transparent_178
+  - first:
+      213: -6210142740271425457
+    second: oubliette_tileset_transparent_179
+  - first:
+      213: 416173012675638566
+    second: oubliette_tileset_transparent_180
+  - first:
+      213: -3402914619303483943
+    second: oubliette_tileset_transparent_181
+  - first:
+      213: -7967194349420743353
+    second: oubliette_tileset_transparent_182
+  - first:
+      213: -4664950893518706458
+    second: oubliette_tileset_transparent_183
+  - first:
+      213: 5069919835021740529
+    second: oubliette_tileset_transparent_184
+  - first:
+      213: 6021347023825048129
+    second: oubliette_tileset_transparent_185
+  - first:
+      213: -7455820902577800160
+    second: oubliette_tileset_transparent_186
+  - first:
+      213: -7832134152985782373
+    second: oubliette_tileset_transparent_187
+  - first:
+      213: 3525799823585029378
+    second: oubliette_tileset_transparent_188
+  - first:
+      213: 6955317918857147712
+    second: oubliette_tileset_transparent_189
+  - first:
+      213: 884587180340979362
+    second: oubliette_tileset_transparent_190
+  - first:
+      213: -6081900108475561547
+    second: oubliette_tileset_transparent_191
+  - first:
+      213: -8898786040317166372
+    second: oubliette_tileset_transparent_192
+  - first:
+      213: -3211157435818003725
+    second: oubliette_tileset_transparent_193
+  - first:
+      213: -2467364570689325919
+    second: oubliette_tileset_transparent_194
+  - first:
+      213: -1425163308658235397
+    second: oubliette_tileset_transparent_195
+  - first:
+      213: -5561791059430438797
+    second: oubliette_tileset_transparent_196
+  - first:
+      213: 3583796769529220301
+    second: oubliette_tileset_transparent_197
+  - first:
+      213: 5933403196272119758
+    second: oubliette_tileset_transparent_198
+  - first:
+      213: -6267252911772997589
+    second: oubliette_tileset_transparent_199
+  - first:
+      213: 3518908868378082598
+    second: oubliette_tileset_transparent_200
+  - first:
+      213: 2595943642606413968
+    second: oubliette_tileset_transparent_201
+  - first:
+      213: -9118960389804484752
+    second: oubliette_tileset_transparent_202
+  - first:
+      213: -5875411522534935289
+    second: oubliette_tileset_transparent_203
+  - first:
+      213: -6566117845231337912
+    second: oubliette_tileset_transparent_204
+  - first:
+      213: 5010740635252698478
+    second: oubliette_tileset_transparent_205
+  - first:
+      213: -8687785829408574270
+    second: oubliette_tileset_transparent_206
+  - first:
+      213: -5289911811448313984
+    second: oubliette_tileset_transparent_207
+  - first:
+      213: 487047406238522432
+    second: GameObjects_0
+  - first:
+      213: 1003958789531666178
+    second: GameObjects_1
+  - first:
+      213: -4748949316688570600
+    second: GameObjects_2
+  - first:
+      213: 7656349582420554337
+    second: GameObjects_3
+  - first:
+      213: 4134492550651945424
+    second: GameObjects_4
+  - first:
+      213: 1709075981183930642
+    second: GameObjects_5
+  - first:
+      213: 4668934956778751190
+    second: GameObjects_6
+  - first:
+      213: 256802847777156987
+    second: GameObjects_7
+  - first:
+      213: -8841322811543401518
+    second: GameObjects_8
+  - first:
+      213: 3103177207842330185
+    second: GameObjects_9
+  - first:
+      213: -4434384400785080740
+    second: GameObjects_10
+  - first:
+      213: 7207254262071026486
+    second: GameObjects_11
+  - first:
+      213: -4490944381544285686
+    second: GameObjects_12
+  - first:
+      213: 368991454752349756
+    second: GameObjects_13
+  - first:
+      213: 8735852007478554635
+    second: GameObjects_14
+  - first:
+      213: -2394422292807804620
+    second: GameObjects_15
+  - first:
+      213: 3325649228730265999
+    second: GameObjects_16
+  - first:
+      213: -8944930772208513735
+    second: GameObjects_17
+  - first:
+      213: -3542925054887801768
+    second: GameObjects_18
+  - first:
+      213: 450574900040142797
+    second: GameObjects_19
+  - first:
+      213: -8239568699524594008
+    second: GameObjects_20
+  - first:
+      213: 8098371850875420803
+    second: GameObjects_21
+  - first:
+      213: -6928613584594855335
+    second: GameObjects_22
+  - first:
+      213: 6104126672150921319
+    second: GameObjects_23
+  - first:
+      213: 5730705461579180689
+    second: GameObjects_24
+  - first:
+      213: 2547156938903475599
+    second: GameObjects_25
+  - first:
+      213: 8947365193039293371
+    second: GameObjects_26
+  - first:
+      213: -5784300185097826932
+    second: GameObjects_27
+  - first:
+      213: 3176377791095432264
+    second: GameObjects_28
+  - first:
+      213: -4428559553158179316
+    second: GameObjects_29
+  - first:
+      213: 8477077221297040107
+    second: GameObjects_30
+  - first:
+      213: 1993077035517685624
+    second: GameObjects_31
+  - first:
+      213: 6944239436076079227
+    second: GameObjects_32
+  - first:
+      213: -855244090629802706
+    second: GameObjects_33
+  - first:
+      213: 6280643283075592417
+    second: GameObjects_34
+  - first:
+      213: -8128502616810455360
+    second: GameObjects_35
+  - first:
+      213: 711206874963687086
+    second: GameObjects_36
+  - first:
+      213: 1799680328454082017
+    second: GameObjects_37
+  - first:
+      213: 3656851578883116473
+    second: GameObjects_38
+  - first:
+      213: -5986568252918986331
+    second: GameObjects_39
+  - first:
+      213: 5475435403751173095
+    second: GameObjects_40
+  - first:
+      213: -7330723685555797383
+    second: GameObjects_41
+  - first:
+      213: -653050591481763388
+    second: GameObjects_42
+  - first:
+      213: 1382984582252552973
+    second: GameObjects_43
+  - first:
+      213: -535809326679409201
+    second: GameObjects_44
+  - first:
+      213: 8299837462519314150
+    second: GameObjects_45
+  - first:
+      213: 421922900208819541
+    second: GameObjects_46
+  - first:
+      213: 6882484885364193650
+    second: GameObjects_47
+  - first:
+      213: -3682312719438316128
+    second: GameObjects_48
+  - first:
+      213: -6600501869471725684
+    second: GameObjects_49
+  - first:
+      213: 8059155727088564730
+    second: GameObjects_50
+  - first:
+      213: -8188623416722249181
+    second: GameObjects_51
+  - first:
+      213: 9036647707152970085
+    second: GameObjects_52
+  - first:
+      213: -7138807134285442586
+    second: GameObjects_53
+  - first:
+      213: 6796066184603227338
+    second: GameObjects_54
+  - first:
+      213: 2909272161059385925
+    second: GameObjects_55
+  - first:
+      213: 4049951349680148897
+    second: GameObjects_56
+  - first:
+      213: 3341019888899482173
+    second: GameObjects_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameObjects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c5f95190752c600800000000000000
+      internalID: 487047406238522432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2078a2b2337ceed00800000000000000
+      internalID: 1003958789531666178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817917ae1c7581eb0800000000000000
+      internalID: -4748949316688570600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16233605161d04a60800000000000000
+      internalID: 7656349582420554337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1ab10c11ba06930800000000000000
+      internalID: 4134492550651945424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211de90cc8bd7b710800000000000000
+      internalID: 1709075981183930642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4833a2b936bc040800000000000000
+      internalID: 4668934956778751190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fe01754d8509300800000000000000
+      internalID: 256802847777156987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbc5690fbf4d4580800000000000000
+      internalID: -8841322811543401518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946d78caa33b01b20800000000000000
+      internalID: 3103177207842330185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5efba1c1e6e572c0800000000000000
+      internalID: -4434384400785080740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633e9a0d09f450460800000000000000
+      internalID: 7207254262071026486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a340801e5fca1c0800000000000000
+      internalID: -4490944381544285686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e1ba9e5cbee1500800000000000000
+      internalID: 368991454752349756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b007424cd1bfb3970800000000000000
+      internalID: 8735852007478554635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4391ae26c9d45ced0800000000000000
+      internalID: -2394422292807804620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81f40e7a54172e20800000000000000
+      internalID: 3325649228730265999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d0d0edad83dd380800000000000000
+      internalID: -8944930772208513735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cc49d0f6005dec0800000000000000
+      internalID: -3542925054887801768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf899dfb73c04600800000000000000
+      internalID: 450574900040142797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c8624ceb27ad80800000000000000
+      internalID: -8239568699524594008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380c3769a42336070800000000000000
+      internalID: 8098371850875420803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a174877ae98df90800000000000000
+      internalID: -6928613584594855335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7600b850ed636b450800000000000000
+      internalID: 6104126672150921319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a61d5314e878f40800000000000000
+      internalID: 5730705461579180689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8553829db1595320800000000000000
+      internalID: 2547156938903475599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb2dc6ec3d6b2c70800000000000000
+      internalID: 8947365193039293371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d8401d0a90abfa0800000000000000
+      internalID: -5784300185097826932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844eea695c2c41c20800000000000000
+      internalID: 3176377791095432264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c061857cc889a82c0800000000000000
+      internalID: -4428559553158179316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea27fcb1d0a4a570800000000000000
+      internalID: 8477077221297040107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f25080105d8ab10800000000000000
+      internalID: 1993077035517685624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78d29699f4ee5060800000000000000
+      internalID: 6944239436076079227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2532c5e7009124f0800000000000000
+      internalID: -855244090629802706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0f9a82ac3592750800000000000000
+      internalID: 6280643283075592417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cefd29cfe1c13f80800000000000000
+      internalID: -8128502616810455360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6b60872e6bed900800000000000000
+      internalID: 711206874963687086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed83ce39bfb9f810800000000000000
+      internalID: 1799680328454082017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd87abd22fbfb230800000000000000
+      internalID: 3656851578883116473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9022564ef6beca0800000000000000
+      internalID: -5986568252918986331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebaf275d77acfb40800000000000000
+      internalID: 5475435403751173095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97287e7d5a9044a90800000000000000
+      internalID: -7330723685555797383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9ee5272f5efe6f0800000000000000
+      internalID: -653050591481763388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0361037629513310800000000000000
+      internalID: 1382984582252552973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdbee7914c6098f0800000000000000
+      internalID: -535809326679409201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e671fe9232fe2370800000000000000
+      internalID: 8299837462519314150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d9c8d64a8fad500800000000000000
+      internalID: 421922900208819541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279b02cc98f738f50800000000000000
+      internalID: 6882484885364193650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adf9f5671cc5ecc0800000000000000
+      internalID: -3682312719438316128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8706da458e4664a0800000000000000
+      internalID: -6600501869471725684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af93bae3f6fd7df60800000000000000
+      internalID: 8059155727088564730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a23de336a2c5e80800000000000000
+      internalID: -8188623416722249181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5617331263f986d70800000000000000
+      internalID: 9036647707152970085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e154e00cbcddec90800000000000000
+      internalID: -7138807134285442586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4d153103a705e50800000000000000
+      internalID: 6796066184603227338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542b0e2dd9fcf5820800000000000000
+      internalID: 2909272161059385925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a19c438b41543830800000000000000
+      internalID: 4049951349680148897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObjects_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d326e5133efad5e20800000000000000
+      internalID: 3341019888899482173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GameObjects_34: 6280643283075592417
+      GameObjects_45: 8299837462519314150
+      GameObjects_47: 6882484885364193650
+      GameObjects_10: -4434384400785080740
+      GameObjects_39: -5986568252918986331
+      GameObjects_30: 8477077221297040107
+      GameObjects_20: -8239568699524594008
+      GameObjects_21: 8098371850875420803
+      GameObjects_25: 2547156938903475599
+      GameObjects_31: 1993077035517685624
+      GameObjects_48: -3682312719438316128
+      GameObjects_52: 9036647707152970085
+      GameObjects_0: 487047406238522432
+      GameObjects_32: 6944239436076079227
+      GameObjects_19: 450574900040142797
+      GameObjects_23: 6104126672150921319
+      GameObjects_38: 3656851578883116473
+      GameObjects_29: -4428559553158179316
+      GameObjects_8: -8841322811543401518
+      GameObjects_42: -653050591481763388
+      GameObjects_13: 368991454752349756
+      GameObjects_53: -7138807134285442586
+      GameObjects_26: 8947365193039293371
+      GameObjects_6: 4668934956778751190
+      GameObjects_7: 256802847777156987
+      GameObjects_35: -8128502616810455360
+      GameObjects_28: 3176377791095432264
+      GameObjects_3: 7656349582420554337
+      GameObjects_54: 6796066184603227338
+      GameObjects_24: 5730705461579180689
+      GameObjects_12: -4490944381544285686
+      GameObjects_17: -8944930772208513735
+      GameObjects_37: 1799680328454082017
+      GameObjects_57: 3341019888899482173
+      GameObjects_40: 5475435403751173095
+      GameObjects_50: 8059155727088564730
+      GameObjects_43: 1382984582252552973
+      GameObjects_36: 711206874963687086
+      GameObjects_46: 421922900208819541
+      GameObjects_11: 7207254262071026486
+      GameObjects_55: 2909272161059385925
+      GameObjects_4: 4134492550651945424
+      GameObjects_2: -4748949316688570600
+      GameObjects_9: 3103177207842330185
+      GameObjects_22: -6928613584594855335
+      GameObjects_33: -855244090629802706
+      GameObjects_41: -7330723685555797383
+      GameObjects_15: -2394422292807804620
+      GameObjects_44: -535809326679409201
+      GameObjects_16: 3325649228730265999
+      GameObjects_51: -8188623416722249181
+      GameObjects_27: -5784300185097826932
+      GameObjects_56: 4049951349680148897
+      GameObjects_14: 8735852007478554635
+      GameObjects_49: -6600501869471725684
+      GameObjects_18: -3542925054887801768
+      GameObjects_5: 1709075981183930642
+      GameObjects_1: 1003958789531666178
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
